@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Laptop</title>
-</head>
 <body>
 
 <font color="Red" size="7"><b>SuperFast X1 Laptop</b></font><br><br>
